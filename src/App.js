@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        It works on my machine.
+        H'lo, Phoney Bone.
       </div>
     );
   }
