@@ -12,6 +12,7 @@ class App extends Component {
         <ul>
           <li>Item 1</li>
        </ul>
+      <input type="text" />
       </div>
     );
   }
