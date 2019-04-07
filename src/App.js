@@ -3,13 +3,15 @@ import './App.scss';
 
 class App extends Component {
   constructor(){
-   
+   super() 
   }
 
   render() {
     return (
       <div className="App">
-        H'lo, Phoney Bone.
+        <ul>
+          <li>Item 1</li>
+       </ul>
       </div>
     );
   }
